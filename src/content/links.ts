@@ -30,7 +30,7 @@ export const SITE_URL = "https://link.ogabarbosa.com";
 
 // Botão principal, logo abaixo do nome.
 export const CTA = {
-  label: "Me chama no WhatsApp",
+  label: "Vem de zap",
   href: "https://wa.me/message/AFEFSOLS3Y3DC1",
 };
 
