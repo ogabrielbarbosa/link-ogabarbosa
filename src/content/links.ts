@@ -55,9 +55,10 @@ export const LINKS: LinkItem[] = [
     logo: "/logos/sharken.svg",
     href: "https://www.sharken.com.br",
   },
-  {
-    title: "Artify",
-    description: "Geração de conteúdo com IA.",
-    logo: "/logos/artify.png",
-  },
+  // Escondido por enquanto. Para voltar, é só descomentar.
+  // {
+  //   title: "Artify",
+  //   description: "Geração de conteúdo com IA.",
+  //   logo: "/logos/artify.png",
+  // },
 ];
